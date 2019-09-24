@@ -1,2 +1,1 @@
-
-alert("Kieu Anh xinh 1");
+prompt("Moi ban nhap ten");
